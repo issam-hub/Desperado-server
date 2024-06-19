@@ -28,6 +28,5 @@ void run(Server *Server){
 
 int main(){
     Server serverr = server_constructor(AF_INET, SOCK_STREAM, 0, INADDR_ANY, 80, 10, run);
-    printf("hello here 2\n");
     serverr.run(&serverr);
 }
