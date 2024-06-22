@@ -13,4 +13,4 @@ simple, the most famous web server around is apache, so i wanted something simil
 `sudo ./main`
 
 ## notice
-i created a simple todo app just to exploit more the server, obviously there some problems with the handleing of it and all but it's partially working and that's what matter, the point is not this but making the server in the first place 😊
+i created a simple todo app just to exploit more the server, obviously there some problems with the handling of it and all but it's partially working and that's what matter, the point is not this but making the server in the first place 😊
