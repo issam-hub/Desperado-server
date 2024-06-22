@@ -11,3 +11,6 @@ simple, the most famous web server around is apache, so i wanted something simil
 `gcc -o server.o && gcc -o main.o -o main`  
 3- run the file (needs sudo permission since it's accessing 80 port which is *privileged* port)  
 `sudo ./main`
+
+## notice
+i created a simple todo app just to exploit more the server, obviously there some problems with the handleing of it and all but it's partially working and that's what matter, the point is not this but making the server in the first place 😊
