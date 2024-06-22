@@ -10,9 +10,9 @@
     <hr>
     <br>
     <br>
-    <form action="">
+    <form action="main.c" method="post">
         <label for="">Write a todo:</label>
-        <input type="text" pattern="\w{5,}" required>
+        <input type="text" required name="text" pattern="\w{,100}">
         <input type="submit" value="Add">
     </form>
 </body>
